@@ -1,0 +1,56 @@
+body{
+    font-family: 'Playfair Display', serif;
+    margin: 0px;
+}
+h1{
+    font-size: 50px;
+    color: #95D69A;
+}
+h3{
+    color: #D6A595;
+}
+.p1{
+    color: #cebcbc;
+    margin: 0px;
+    padding: 0px;
+}
+.name-highlight{
+    color: orange;
+}
+.half1{
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 2%;
+}
+.half1 .image1{
+    width:100%;
+}
+
+.section1{
+    background: linear-gradient(to right, #4209AE, #C41908);
+    height: 605px;
+    display: block;
+}
+.bar-between-section1-and-2{
+    width: 100%;
+    height: 10px;
+    background: linear-gradient(to right, rgb(153, 2, 2), rgb(100, 5, 100));
+}
+.section2{
+    background: linear-gradient(to right, #0f0c29, #302b63, #24243e);
+    height: 600px;
+    padding-top: 10px;
+}
+.half2{
+    width: 40%;
+    float: right;
+    margin-right: 5%;
+    padding-right: 2%;
+}
+.p2{
+    color: rgb(181, 165, 196);
+}
+.half2 .img{
+    width: 100%;
+}
